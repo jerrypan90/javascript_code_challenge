@@ -15,5 +15,5 @@ function FirstFactorial(num) {
    return sum;
 }
 
-// function call (change the numbere here to test with different arguments)
+// function call (change the number here to test with different arguments)
 FirstFactorial(4);
